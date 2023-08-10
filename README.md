@@ -30,7 +30,7 @@ Aqui está a lista dos exercícios de lógica de programação que foram conclu�
 
 ## Conclusão
 
-Estou muito satisfeito por ter conseguido concluir todos os exercícios propostos neste desafio. Cada exercício me proporcionou a oportunidade de aprimorar minhas habilidades em lógica de programação e aplicar os conceitos aprendidos de maneira prática.
+Estou muito feliz por ter conseguido concluir todos os exercícios propostos neste desafio. Cada exercício me proporcionou a oportunidade de aprimorar minhas habilidades em lógica de programação e aplicar os conceitos aprendidos de maneira prática.
 
 Esse desafio marcou o encerramento do Módulo 1 do curso "Desenvolvimento de Software Back-end", e estou empolgado para continuar minha jornada de aprendizado e aprimoramento na área de desenvolvimento de software.
 
