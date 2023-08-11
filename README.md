@@ -36,4 +36,4 @@ Esse desafio marcou o encerramento do Módulo 1 do curso "Desenvolvimento de Sof
 
 ---
 
-*Esse repositório faz parte do meu progresso no curso "Desenvolvimento de Software Back-end". Para mais informações sobre o curso e os projetos, confira o [website do curso](https://cubos.academy/?utm_term=cubos%20academy&utm_campaign=Conversion+-+Search+-+Branding+-+Cubos+Academy&utm_source=google&utm_medium=cpc&hsa_acc=6320525513&hsa_cam=18154121427&hsa_grp=141084695032&hsa_ad=618464016440&hsa_src=g&hsa_tgt=kwd-1212716925774&hsa_kw=cubos%20academy&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwldKmBhCCARIsAP-0rfxcREkUBvWEIW7lfl75qusqSJ_qFNjmIEmSnedVmtiA-lwdowXtQ-AaAhPjEALw_wcB) ou visite meu [perfil no LinkedIn](https://www.linkedin.com/in/larissalaviniaba/).*
+*Esse repositório faz parte do meu progresso no curso "Desenvolvimento de Software Back-end". Para mais informações visite meu [perfil no LinkedIn](https://www.linkedin.com/in/larissalaviniaba/).*
